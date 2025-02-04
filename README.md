@@ -31,7 +31,7 @@ Tudo isso em uma plataforma dinâmica e responsiva! 😍🔥
 
 ## 🌍 Visualize o Projeto com a versão atualizada Online
 🔗 Acesse agora: [Marketplace Films](https://doramastream.netlify.app/)  
-👩🏼‍💻 Portfólio Profissional: [Célia Medeiros](https://ti-experient.netlify.app/)  
+👩🏼‍💻 Portfólio: [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
 
 ---
 
