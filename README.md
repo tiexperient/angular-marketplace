@@ -37,7 +37,7 @@ Tudo isso em uma plataforma dinâmica e responsiva! 😍🔥
 
 ## 🔄 Evolução do Projeto
 
-Esta foi a **primeira versão** do marketplace Films! Agora, uma nova versão ganhou novas funcionalidades e foi lançada, **sem necessidade de servidor externo**, proporcionando mais simplicidade e eficiência! 🚀✨
+Esta foi a **primeira versão** do marketplace Films! Agora, uma nova versão recebeu novas funcionalidades e foi lançada, **sem necessidade de servidor externo**, proporcionando mais simplicidade e eficiência! 🚀✨
 
 🔗 Confira a **segunda versão** do projeto: [DoramaStream](https://github.com/tiexperient/doramas-films)  
 
