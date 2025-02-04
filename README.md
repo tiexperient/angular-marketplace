@@ -29,7 +29,7 @@ Tudo isso em uma plataforma dinâmica e responsiva! 😍🔥
 
 ---
 
-## 🌍 Visualize o Projeto com a versão atualizada Online
+## 🌍 Visualize o Projeto com a versão atualizada online
 🔗 Acesse agora: [Marketplace Films](https://doramastream.netlify.app/)  
 👩🏼‍💻 Portfólio: [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
 
