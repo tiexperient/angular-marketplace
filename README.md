@@ -1,7 +1,7 @@
 # 🎬 Marketplace Films 🚀
 
-Se você é apaixonado(a) por filmes e quer explorar uma coleção incrível, o **Marketplace Films** é perfeito para você! 🎥💖<br>
-Navegue, adicione ao carrinho e finalize sua compra de maneira fácil e divertida! 🌟
+Se você é apaixonado(a) por filmes e quer explorar uma coleção incrível, o **Marketplace Films** é perfeito para você!<br>
+Navegue, adicione ao carrinho e finalize sua compra de maneira fácil e divertida! 🌟🎥💖
 
 ---
 
