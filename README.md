@@ -29,7 +29,7 @@ Tudo isso em uma plataforma dinâmica e responsiva! 😍🔥
 
 ---
 
-## 🌍 Visualize o Projeto com a versão Online
+## 🌍 Visualize o Projeto com a versão atualizada Online
 🔗 Acesse agora: [Doramas Films](https://tiexperient-doramas-films.netlify.app/)  
 👩🏼‍💻 Portfólio Profissional: [Célia Medeiros](https://ti-experient.netlify.app/)  
 
