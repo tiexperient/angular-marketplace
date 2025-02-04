@@ -30,7 +30,7 @@ Tudo isso em uma plataforma dinâmica e responsiva! 😍🔥
 ---
 
 ## 🌍 Visualize o Projeto com a versão atualizada Online
-🔗 Acesse agora: [Doramas Films](https://doramastream.netlify.app/)  
+🔗 Acesse agora: [Doramas Stream](https://doramastream.netlify.app/)  
 👩🏼‍💻 Portfólio Profissional: [Célia Medeiros](https://ti-experient.netlify.app/)  
 
 ---
