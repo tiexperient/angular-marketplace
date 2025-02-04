@@ -41,6 +41,6 @@ Esta foi a **primeira versão** do marketplace Films! Agora, uma nova versão re
 
 🔗 Confira a **segunda versão** do projeto: [doramas-films](https://github.com/tiexperient/doramas-films)  
 
-📢 Explore, contribua e aproveite!<br><br> 
+📢 Explore, contribua e aproveite!<br>
 
 Criado com dedicação por **Célia Medeiros** 💛🎬
